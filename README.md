@@ -17,7 +17,7 @@ A parallel corpus is a collection of translations. Each translation consists of 
 
 On disk, parallel corpora are often stored in line-delimited plain text files: one for the source side, and another for the target side. Each file contains one sentence per line, and sentences on the same line are translations. For example, line 31 in `data/corpus.en` is a translation of line 31 in `data/corpus.de`, etc.
 
-Before training machine translation models, parallel corpora – often crawled from the web and thus containing noise – must be preprocessed. Your task is to implement two preprocessing methods: ratio cleaning and whitespace normalisation. Implement the `clean` and `normalise_whitespace` methods in `preprocess_corpus.py` according to their docstring specifications. You may use the files stored in `data/` folder for testing.
+Before training machine translation models, parallel corpora – often crawled from the web and thus containing noise – must be preprocessed. Your task is to implement two preprocessing methods: ratio cleaning and whitespace normalisation. Implement the `clean` and `normalise_whitespace` methods in `preprocess_corpus.py` according to their docstring specifications. You may use the files stored in the `data/` folder for testing.
 
 ### Task 2: Use of REST API
 

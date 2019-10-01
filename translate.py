@@ -5,7 +5,7 @@ import requests
 
 
 def translate(sentence: str) -> str:
-    """Translates a German sentence into English using an online machine
+    """Translates an English sentence into German using an online machine
     translation API.
 
     API endpoint: https://mintzberg.textshuttle.ai/api/v1

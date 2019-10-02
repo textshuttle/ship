@@ -7,7 +7,7 @@ manage to complete all tasks.
 
 Clone this repository and edit any code on your own machine. After 60 minutes,
 compress your local repository (with your modified code) into a zip or .tar.gz
-archive and send it to fischer@textshuttle.ai.
+archive and send it to morger@textshuttle.ai.
 
 Please complete the tasks in order, i.e., do not work on task 3 before having completed task 2, etc.
 
